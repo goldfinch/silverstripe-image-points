@@ -1,5 +1,5 @@
 {
-    "name": "littlegiant/silverstripe-image-points",
+    "name": "goldfinch/silverstripe-image-points",
     "description": "Plot points on an image.",
     "type": "silverstripe-vendormodule",
     "keywords": [
@@ -15,11 +15,11 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/littlegiant/silverstripe-image-points/issues"
+        "issues": "https://github.com/goldfinch/silverstripe-image-points/issues"
     },
     "require": {
-        "silverstripe/cms": "^4",
-        "silverstripe/framework": "^4"
+        "silverstripe/cms": "^5",
+        "silverstripe/framework": "^5"
     },
     "autoload": {
         "psr-4": {
