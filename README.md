@@ -1,5 +1,7 @@
 # Image Points
 
+* This is fork of [isobar-nz/silverstripe-image-points](https://github.com/isobar-nz/silverstripe-image-points)
+
 Image points is a module that allows you to add "points" on an image that allows you to loop through items with `x` and `y` coordinates for positioning.
 
 ## Screenshot
