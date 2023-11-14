@@ -101,8 +101,8 @@ class PointField extends FormField
      */
     public function initFrontEndRequirements()
     {
-        Requirements::css('littlegiant/silverstripe-image-points:client/css/image-points.css');
-        Requirements::javascript('littlegiant/silverstripe-image-points:client/javascript/image-points.js');
+        Requirements::css('goldfinch/silverstripe-image-points:client/css/image-points.css');
+        Requirements::javascript('goldfinch/silverstripe-image-points:client/javascript/image-points.js');
     }
 
     /**
