@@ -35,7 +35,7 @@ class Point extends DataObject
     /**
      * @var string
      */
-    private static $table_name = 'LittleGiant_Silverstripe_ImagePoints_Point';
+    private static $table_name = 'Point';
 
     /**
      * @var array
